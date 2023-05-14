@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="092423e7-8ef6-4aeb-b0bc-1b2464efd955" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GnAFaffIPV2msmjmJijn27mcH6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/libs/fancybox" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\Infinizai\src\libs\fancybox" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KIDS\Desktop\Infinizai\src\libs\wow" />
+      <recent name="C:\Users\user\Desktop\Infinizai\src\libs\owl-carousel" />
+      <recent name="C:\Users\Admin\Desktop\Infinizai\src\libs\jquery" />
+      <recent name="C:\Users\Admin\Desktop\Infinizai\src\libs\fancybox" />
+      <recent name="C:\Users\Admin\Desktop\Infinizai\src\images\footer" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="092423e7-8ef6-4aeb-b0bc-1b2464efd955" name="Default Changelist" comment="" />
+      <created>1667013870156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667013870156</updated>
+      <workItem from="1667013871375" duration="176000" />
+      <workItem from="1667014095142" duration="154000" />
+      <workItem from="1667014301496" duration="65000" />
+      <workItem from="1667014391483" duration="1225000" />
+      <workItem from="1667021987528" duration="153000" />
+      <workItem from="1667022166184" duration="62000" />
+      <workItem from="1667022257540" duration="44000" />
+      <workItem from="1667022319306" duration="158000" />
+      <workItem from="1667022661101" duration="298000" />
+      <workItem from="1667023013634" duration="290000" />
+      <workItem from="1667101704478" duration="1608000" />
+      <workItem from="1667103351764" duration="27000" />
+      <workItem from="1667103383424" duration="3000" />
+      <workItem from="1667103463933" duration="30000" />
+      <workItem from="1667103530546" duration="2258000" />
+      <workItem from="1667117298895" duration="3980000" />
+      <workItem from="1667199780038" duration="6945000" />
+      <workItem from="1667210137785" duration="52000" />
+      <workItem from="1667286289882" duration="1829000" />
+      <workItem from="1667288187673" duration="5305000" />
+      <workItem from="1667462923811" duration="3296000" />
+      <workItem from="1667620972836" duration="7070000" />
+      <workItem from="1667895960082" duration="4815000" />
+      <workItem from="1667983795671" duration="274000" />
+      <workItem from="1668053634050" duration="6772000" />
+      <workItem from="1668140387154" duration="14802000" />
+      <workItem from="1668226759294" duration="5575000" />
+      <workItem from="1668242265684" duration="1726000" />
+      <workItem from="1668244168015" duration="1848000" />
+      <workItem from="1668246058567" duration="1362000" />
+      <workItem from="1668313426553" duration="1226000" />
+      <workItem from="1668317215781" duration="1487000" />
+      <workItem from="1668829639516" duration="878000" />
+      <workItem from="1668831139230" duration="6055000" />
+      <workItem from="1668844723091" duration="1627000" />
+      <workItem from="1668846729297" duration="140000" />
+      <workItem from="1684056269974" duration="7411000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="570" y="252" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1667625878925">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="570" y="252" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1667625878925" />
+    <state x="500" y="185" key="FileChooserDialogImpl" timestamp="1667105748808">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1667105748808" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1668844929433">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1668844929433" />
+    <state x="471" y="50" width="737" height="909" key="find.popup" timestamp="1667623144041">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="471" y="50" width="737" height="909" key="find.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1667623144041" />
+    <state x="403" y="168" key="run.anything.popup" timestamp="1668844937148">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="403" y="168" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1668844937148" />
+    <state x="496" y="233" key="run.anything.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1668227282615" />
+  </component>
+</project>
